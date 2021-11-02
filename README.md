@@ -11,8 +11,9 @@
 
 ## 补充说明
 1. 开源，但代码编译出的程序与 release 版本程序不一致（指外观、功能上的不一致）也视为不完全开源（vscode）
-2. 开源，但携带不影响功能实现的二进制程序视为完全开源（如 [Calci-kernel](https://github.com/Iraka-C/Calci-kernel)，仓库名称与描述显式申明了是 Calci 的组件，不易混淆，因此携带 Calci 的二进制程序不视为不完全开源；Chromium，名称与 Chrome 有明显区分，Chrome 不开源但 Chromium 仍视为完全开源）
-3. [VS Code](https://github.com/microsoft/vscode.git) 比较特殊，编译出来的是 VSCodium ，官方叫做 Code-OSS ，暂时先不分类。
+2. 开源，但携带不影响其功能实现的二进制程序视为完全开源（如 [Calci-kernel](https://github.com/Iraka-C/Calci-kernel)，仓库名称与描述显式申明了是 Calci 的组件，不易混淆，因此携带 Calci 的二进制程序不视为不完全开源）
+3. 开源，但其为闭源程序的开源实现或部分视为完全开源（如 Chromium，名称与 Chrome 有明显区分，Chrome 不开源但 Chromium 仍视为完全开源）
+4. [VS Code](https://github.com/microsoft/vscode.git) 比较特殊，编译出来的是 VSCodium ，官方叫做 Code-OSS ，暂时先不分类。
 
 ## 正文
 
