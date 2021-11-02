@@ -11,8 +11,9 @@
 
 ## 补充说明
 1. 开源，但代码编译出的程序与 release 版本程序不一致（指外观、功能上的不一致，参考 [Reproducible_builds](https://en.wikipedia.org/wiki/Reproducible_builds)）也视为不完全开源（[VS Code](https://github.com/microsoft/vscode.git) ，编译出来的是 VSCodium ，官方叫做 Code-OSS ，但因未完成源码审查构建暂时先不分类）
-2. 开源，但携带不影响其功能实现的二进制程序视为完全开源（如 [Calci-kernel](https://github.com/Iraka-C/Calci-kernel)，仓库名称与描述显式申明了是 Calci 的组件，不易混淆，因此携带 Calci 的二进制程序不视为不完全开源）
-3. 开源，但其为闭源程序的开源实现或部分视为完全开源，但名称应有区分（如 Chromium，名称与 Chrome 有明显区分，Chrome 不开源但 Chromium 仍视为完全开源）
+2. 开源，但携带不影响其功能实现的二进制程序视为完全开源（如 [Calci-kernel](https://github.com/Iraka-C/Calci-kernel)，仓库名称与描述显式声明了是 Calci 的组件，不易混淆，因此携带 Calci 的二进制程序不视为不完全开源）
+3. 开源，但其为闭源程序的开源实现或部分视为完全开源，但名称应有区分，且开源部分能独立工作。（如 Chromium，名称与 Chrome 有明显区分，Chrome 不开源但 Chromium 仍视为完全开源）
+4. 开源，如果有引入的外部功能或 SDK 依赖闭源的第三方服务需要显式声明，如文件转换服务依赖在线的网站 API 实现，但部分不属于代码实现范畴的数据类服务不计算在其中，如某网站的第三方客户端依赖原网站 API，天气程序程序调用第三方天气 API。
 
 ## 正文
 
