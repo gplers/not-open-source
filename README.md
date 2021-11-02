@@ -21,6 +21,7 @@
 | - | - | - |
 | [sablejs](https://github.com/sablejs/sablejs) | 核心代码不开源 | ./runtime.js 文件存在压缩混淆 | 
 | [edusoho](https://github.com/edusoho/edusoho) | 前端代码不开源 | ./web/h5/ 目录下代码存在压缩混淆 |
+| [miniblink49](https://github.com/weolar/miniblink49.git) | 后续版本不开源 | 作者声明暂停开源 |
 
 ## 待分析
 
