@@ -14,3 +14,4 @@
 | 名称 | 类型 |
 | - | - |
 | [sablejs](https://github.com/sablejs/sablejs) | 核心代码不开源 |
+| [edusoho](https://github.com/edusoho/edusoho) | 前端代码不开源 |
