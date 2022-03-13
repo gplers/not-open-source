@@ -21,15 +21,15 @@
 
 ## 正文
 
-| 名称 | 类型 | 理由 |
-| - | - | - |
-| [sablejs](https://github.com/sablejs/sablejs) | 核心代码不开源 | ./runtime.js 文件存在压缩混淆 | 
-| [edusoho](https://github.com/edusoho/edusoho) | 前端代码不开源 | ./web/h5/ 目录下代码存在压缩混淆 |
-| [miniblink49](https://github.com/weolar/miniblink49.git) | 后续版本不开源 | 作者声明暂停开源 |
-| [WebRunLocal](https://github.com/wangzuohuai/WebRunLocal) | 核心代码以及 SDK 不开源 | |
-| [JimuReport](https://github.com/jeecgboot/JimuReport) | 核心代码以及 SDK 不开源 | pom.xml 核心依赖 org.jeecgframework.jimureport 不开源 |
-| [学无止下载器](https://github.com/PyJun/Mooc_Downloader) | 后续版本不开源 | 作者声明暂停在 GitHub 上更新后续代码 |
-| [VS Code](https://github.com/microsoft/vscode) | 仓库编译产物与仓库名称存在分歧 | VSCode 可视为微软在 Code-OSS 基础上进行二次开发的产品，既然如此那 Code-OSS 的仓库名称应该叫做 code-oss 而非 vscode，虽然微软在 README 中进行了详细说明但仍有误导性 |
+| 名称 | 开源许可证 | 类型 | 理由 |
+| - | - | - | - |
+| [sablejs](https://github.com/sablejs/sablejs) | [sablejs JavaScript Engine](https://github.com/sablejs/sablejs/blob/master/LICENSE) | 核心代码不开源 | ./runtime.js 文件存在压缩混淆 | 
+| [edusoho](https://github.com/edusoho/edusoho) | [EduSoho开源协议V1.0版本](https://github.com/EduSoho/EduSoho/wiki/EduSoho%E5%BC%80%E6%BA%90%E5%8D%8F%E8%AE%AEV1.0%E7%89%88%E6%9C%AC) | 前端代码不开源 | ./web/h5/ 目录下代码存在压缩混淆 |
+| [miniblink49](https://github.com/weolar/miniblink49.git) | Apache-2.0 License | 后续版本不开源 | 作者声明暂停开源 |
+| [WebRunLocal](https://github.com/wangzuohuai/WebRunLocal) | MIT License/[PluginOK(牛插)中间件(以下简称PluginOK)软件使用授权协议](https://github.com/wangzuohuai/WebRunLocal/blob/master/license.txt) | 核心代码以及 SDK 不开源 | 仅二进制构建产物 |
+| [JimuReport](https://github.com/jeecgboot/JimuReport) | Apache-2.0 License | 核心代码以及 SDK 不开源 | pom.xml 核心依赖 org.jeecgframework.jimureport 不开源 |
+| [学无止下载器](https://github.com/PyJun/Mooc_Downloader) | 未指定具体开源许可证，但等同开源([Wiki 8.该软件开源了吗？](https://github.com/PyJun/Mooc_Downloader/wiki#8%E8%AF%A5%E8%BD%AF%E4%BB%B6%E5%BC%80%E6%BA%90%E4%BA%86%E5%90%97)) | 后续版本不开源 | 作者声明暂停在 GitHub 上更新后续代码 |
+| [VS Code](https://github.com/microsoft/vscode) | MIT License | 仓库编译产物与仓库名称存在分歧 | VSCode 可视为微软在 Code-OSS 基础上进行二次开发的产品，既然如此那 Code-OSS 的仓库名称应该叫做 code-oss 而非 vscode，虽然微软在 README 中进行了详细说明但仍有误导性 |
 
 ## 待分析
 
