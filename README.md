@@ -34,3 +34,6 @@
 ## 待分析
 
 + [rustdesk](https://github.com/rustdesk/rustdesk) ，疑似服务端不开源，但有 [rustdesk-server-demo](https://github.com/rustdesk/rustdesk-server-demo)，需要进一步审查。
++ | [jeesite4](https://github.com/thinkgem/jeesite4) | Apache-2.0 License | 作者承认 1.2.7系列 全开源 4.0 系列目前部分开源，未来仍会考虑全开源。 |
++ | [ofd.js](https://github.com/DLTech21/ofd.js) | Apache-2.0 License | OFD2PDF、PDF2OFD 不开源且未显式注明 |
+
