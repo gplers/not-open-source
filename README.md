@@ -30,10 +30,3 @@
 | [JimuReport](https://github.com/jeecgboot/JimuReport) | Apache-2.0 License | 核心代码以及 SDK 不开源 | pom.xml 核心依赖 org.jeecgframework.jimureport 不开源 |
 | [学无止下载器](https://github.com/PyJun/Mooc_Downloader) | 未指定具体开源许可证，但等同开源([Wiki 8.该软件开源了吗？](https://github.com/PyJun/Mooc_Downloader/wiki#8%E8%AF%A5%E8%BD%AF%E4%BB%B6%E5%BC%80%E6%BA%90%E4%BA%86%E5%90%97)) | 后续版本不开源 | 作者声明暂停在 GitHub 上更新后续代码 |
 | [VS Code](https://github.com/microsoft/vscode) | MIT License | 仓库编译产物与仓库名称存在分歧 | VSCode 可视为微软在 Code-OSS 基础上进行二次开发的产品，既然如此那 Code-OSS 的仓库名称应该叫做 code-oss 而非 vscode，虽然微软在 README 中进行了详细说明但仍有误导性 |
-
-## 待分析
-
-+ [rustdesk](https://github.com/rustdesk/rustdesk) ，疑似服务端不开源，但有 [rustdesk-server-demo](https://github.com/rustdesk/rustdesk-server-demo)，需要进一步审查。
-+ | [jeesite4](https://github.com/thinkgem/jeesite4) | Apache-2.0 License | 作者承认 1.2.7系列 全开源 4.0 系列目前部分开源，未来仍会考虑全开源。 |
-+ | [ofd.js](https://github.com/DLTech21/ofd.js) | Apache-2.0 License | OFD2PDF、PDF2OFD 不开源且未显式注明 |
-
