@@ -32,6 +32,7 @@
 | [VS Code](https://github.com/microsoft/vscode) | MIT License | 仓库编译产物与仓库名称存在分歧 | VSCode 可视为微软在 Code-OSS 基础上进行二次开发的产品，既然如此那 Code-OSS 的仓库名称应该叫做 code-oss 而非 vscode，虽然微软在 README 中进行了详细说明但仍有误导性 |
 | [videoWater](https://github.com/suifengqjn/videoWater) | Apache-2.0 license | 核心代码未开源 | 经审查无法编译出与宣传相符的预期产物 |
 | [LarkMidTable](https://github.com/birdLark/LarkMidTable) | GPL-3.0 license | 前端代码不开源 | larkmidtable-web/admin/src/main/resources/static/ 目录下代码存在压缩混淆 |
+| [proximabilin](https://github.com/alibaba/proximabilin) | Apache-2.0 license | 核心代码未开源 | 函数库 libproxima.so 未开源 |
 
 ## 点名批评
 
