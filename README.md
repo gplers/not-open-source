@@ -33,6 +33,7 @@
 | [videoWater](https://github.com/suifengqjn/videoWater) | Apache-2.0 license | 核心代码未开源 | 经审查无法编译出与宣传相符的预期产物 |
 | [LarkMidTable](https://github.com/birdLark/LarkMidTable) | GPL-3.0 license | 前端代码不开源 | larkmidtable-web/admin/src/main/resources/static/ 目录下代码存在压缩混淆 |
 | [proximabilin](https://github.com/alibaba/proximabilin) | Apache-2.0 license | 核心代码未开源 | 函数库 libproxima.so 未开源 |
+| [jumpserver](https://github.com/jumpserver/jumpserver) | GPL-3.0 license | 核心组件未开源 | [lion](https://github.com/jumpserver/lion-release.git) 和 [magnus](https://github.com/jumpserver/magnus-release.git) 不开源 |
 
 ## 点名批评
 
