@@ -35,6 +35,10 @@
 | [proximabilin](https://github.com/alibaba/proximabilin) | Apache-2.0 license | 核心代码未开源 | 函数库 libproxima.so 未开源 |
 | [jumpserver](https://github.com/jumpserver/jumpserver) | GPL-3.0 license | 核心组件未开源 | [lion](https://github.com/jumpserver/lion-release.git) 和 [magnus](https://github.com/jumpserver/magnus-release.git) 不开源 |
 
+### 不开源的 VSCode 插件
+
++ [FnMap - 函数地图](https://marketplace.visualstudio.com/items?itemName=chensuiyi.fn-map)，付费插件，Repository 指向 [yicode](https://gitee.com/yicode-team/yicode)，但经核查未发现相关性。
+
 ## 点名批评
 
 + Mars3D，开源 demo 也能自称开源真是够了。
