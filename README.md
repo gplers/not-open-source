@@ -35,6 +35,7 @@
 | [proximabilin](https://github.com/alibaba/proximabilin) | Apache-2.0 license | 核心代码未开源 | 函数库 libproxima.so 未开源 |
 | [jumpserver](https://github.com/jumpserver/jumpserver) | GPL-3.0 license | 核心组件未开源 | [lion](https://github.com/jumpserver/lion-release.git) 和 [magnus](https://github.com/jumpserver/magnus-release.git) 不开源 |
 | [沉浸式双语网页翻译扩展(immersive-translate)](https://github.com/immersive-translate/immersive-translate) | [EULA](https://github.com/sablejs/sablejs/blob/master/LICENSE) | 有且仅构建产物 | 误导开源，但仅发布构建产物 |
+| [卷王(SurveyKing)]([https://github.com/immersive-translate/immersive-translate](https://github.com/javahuang/surveyking)) | MIT License | 前端代码不开源 | 缺少 /client 目录下的代码 |
 
 ### 不开源的 VSCode 插件
 
