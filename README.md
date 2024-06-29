@@ -38,6 +38,7 @@
 | [卷王(SurveyKing)](https://github.com/javahuang/SurveyKing) | MIT License | 前端代码不开源 | 缺少 /client 目录下的代码 |
 | [wgcloud](https://github.com/tianshiyeben/wgcloud) | Apache-2.0 license | 后续版本不开源 | 来源 [不再开源了](https://www.v2ex.com/t/679704)，后续 3.x 版本不开源，但 release 仍在发布 |
 | [sqlflow](https://github.com/sqlparser/sqlflow_public) | Apache-2.0 license | 迷惑性开源 | [官网](https://sqlflow.gudusoft.com/#/)右上角放了个 Github 的链接，点过来却只有 demo 和材料 |
+| [Duix - 硅基数字人SDK](https://github.com/GuijiAI/duix.ai) | [Silicon Intelligence COMMUNITY LICENSE AGREEMENT](https://github.com/GuijiAI/duix.ai/blob/main/LICENSE) | 迷惑性开源 | 开源 SDK 和 demo 也敢自称开源？ |
 
 ### 不开源的 VSCode 插件
 
