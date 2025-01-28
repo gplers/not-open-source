@@ -40,6 +40,7 @@
 | [sqlflow](https://github.com/sqlparser/sqlflow_public) | Apache-2.0 license | 迷惑性开源 | [官网](https://sqlflow.gudusoft.com/#/)右上角放了个 Github 的链接，点过来却只有 demo 和材料 |
 | [Duix - 硅基数字人SDK](https://github.com/GuijiAI/duix.ai) | [Silicon Intelligence COMMUNITY LICENSE AGREEMENT](https://github.com/GuijiAI/duix.ai/blob/main/LICENSE) | 迷惑性开源 | 开源 SDK 和 demo 也敢自称开源？ |
 | [1Panel](https://github.com/1Panel-dev/1Panel) | GPL-3.0 license | 存在未明确提及的不开源版本(专业版) | 仅中文(简体)的 README 中提及存在专业版 |
+| [雷池](https://github.com/chaitin/SafeLine) | GPL-3.0 license | 非开源项目 | 开发成员在 issue 中回复时表示该项目源码不开源(<https://github.com/chaitin/SafeLine/issues/20>、<https://github.com/chaitin/SafeLine/issues/496>) |
 
 ### 不开源的 VSCode 插件
 
