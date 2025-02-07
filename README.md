@@ -25,7 +25,6 @@
 | - | - | - | - |
 | [sablejs](https://github.com/sablejs/sablejs) | [sablejs JavaScript Engine](https://github.com/sablejs/sablejs/blob/master/LICENSE) | 核心代码不开源 | ./runtime.js 文件存在压缩混淆 | 
 | [edusoho](https://github.com/edusoho/edusoho) | [EduSoho开源协议V1.0版本](https://github.com/EduSoho/EduSoho/wiki/EduSoho%E5%BC%80%E6%BA%90%E5%8D%8F%E8%AE%AEV1.0%E7%89%88%E6%9C%AC) | 前端代码不开源 | ./web/h5/ 目录下代码存在压缩混淆 |
-| [miniblink49](https://github.com/weolar/miniblink49.git) | Apache-2.0 License | 后续版本不开源 | 作者声明暂停开源 |
 | [WebRunLocal](https://github.com/wangzuohuai/WebRunLocal) | MIT License/[PluginOK(牛插)中间件(以下简称PluginOK)软件使用授权协议](https://github.com/wangzuohuai/WebRunLocal/blob/master/license.txt) | 核心代码以及 SDK 不开源 | 仅二进制构建产物 |
 | [JimuReport](https://github.com/jeecgboot/JimuReport) | Apache-2.0 License | 核心代码以及 SDK 不开源 | pom.xml 核心依赖 org.jeecgframework.jimureport 不开源 |
 | [学无止下载器](https://github.com/PyJun/Mooc_Downloader) | 未指定具体开源许可证，但等同开源([Wiki 8.该软件开源了吗？](https://github.com/PyJun/Mooc_Downloader/wiki#8%E8%AF%A5%E8%BD%AF%E4%BB%B6%E5%BC%80%E6%BA%90%E4%BA%86%E5%90%97)) | 后续版本不开源 | 作者声明暂停在 GitHub 上更新后续代码 |
@@ -41,6 +40,12 @@
 | [Duix - 硅基数字人SDK](https://github.com/GuijiAI/duix.ai) | [Silicon Intelligence COMMUNITY LICENSE AGREEMENT](https://github.com/GuijiAI/duix.ai/blob/main/LICENSE) | 迷惑性开源 | 开源 SDK 和 demo 也敢自称开源？ |
 | [1Panel](https://github.com/1Panel-dev/1Panel) | GPL-3.0 license | 存在未明确提及的不开源版本(专业版) | 仅中文(简体)的 README 中提及存在专业版 |
 | [雷池](https://github.com/chaitin/SafeLine) | GPL-3.0 license | 非开源项目 | 开发成员在 issue 中回复时表示该项目源码不开源(<https://github.com/chaitin/SafeLine/issues/20>、<https://github.com/chaitin/SafeLine/issues/496>) |
+
+### 重新恢复/调整后开源的项目
+
+| 名称 | 开源许可证 | 类型 | 理由 |
+| - | - | - | - |
+| [miniblink49](https://github.com/weolar/miniblink49) | Apache-2.0 License | 暂停开源后恢复开源 | “~~经深思熟虑后决定自2019-6-17起不在更新~~。但于2024年6月22日，重新开源！” |
 
 ### 不开源的 VSCode 插件
 
