@@ -1,5 +1,7 @@
 # not-open-source
 
+> 2025/08/05 发现 [is it really FOSS?](https://isitreallyfoss.com/projects/) 网站，非常专业，建议收藏。（[提交问题入口](https://codeberg.org/danb/isitreallyfoss/issues)）
+
 在 Github 上 不开源/不完全开源 的具有一定知名度的项目(markdown 型不计入，需要项目主体构成是代码)
 
 ## 声明
